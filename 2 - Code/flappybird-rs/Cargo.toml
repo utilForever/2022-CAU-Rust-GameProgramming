@@ -1,0 +1,11 @@
+[package]
+name = "flappybird-rs"
+version = "0.1.0"
+authors = [ "Chris Ohk <utilforever@gmail.com>" ]
+edition = "2021"
+description = "A simple flappy bird game written in Rust"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bracket-lib = "0.8.1"
